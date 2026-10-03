@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-fc40b44b1e.abnio.cn/sitemap.xml

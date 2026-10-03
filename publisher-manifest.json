@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f832d2d561b957612599151e",
+  "owner": "rybrewsmsrc",
+  "repo": "page-ac668a8848924e79a273a572",
+  "title": "Lilt",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ac668a8848924e79a273a572",
+      "a": "Lilt",
+      "b": "",
+      "entity": "Lilt",
+      "brand": "Lilt",
+      "separator": "",
+      "path": "index.html",
+      "hash": "59f6326858f86e4d979c24f0b5744903ba65b0adb1eb7a3c2deb85a5f85950a5",
+      "content": {
+        "keyword1": "Lilt",
+        "keyword2": "",
+        "primary_entity": "Lilt",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Lilt是面向个人与团队的网络加速服务，提供机场订阅、多平台客户端官方下载，以及稳定的VPN梯子体验，覆盖日常浏览、流媒体与游戏加速。",
+          "AI_DESCRIPTION": "Lilt是面向个人与团队的网络加速服务，提供机场订阅、多平台客户端官方下载，以及稳定的VPN梯子体验，覆盖日常浏览、流媒体与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#f3f4f6;color:#111827;font-size:16px;line-height:1.65}.wrap{max-width:720px;margin:0 auto;padding:16px}header{background:#ede9fe;padding:12px 16px;border-bottom:2px solid #7c3aed}nav a{color:#6d28d9;margin-right:12px;text-decoration:none;font-weight:600}h1{font-size:1.75rem;color:#5b21b6;margin:1.2rem 0 0.8rem}h2{font-size:1.35rem;color:#6d28d9;margin:1.8rem 0 0.8rem;border-bottom:2px solid #c4b5fd;padding-bottom:6px}h3{font-size:1.1rem;color:#5b21b6;margin:1rem 0 0.4rem}p,li{margin:0.6rem 0}.card{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:16px;margin:12px 0}.featured{border:2px solid #7c3aed;background:#f5f3ff}.steps{counter-reset:step}.step{position:relative;padding-left:48px;margin:16px 0}.step:before{counter-increment:step;content:counter(step);position:absolute;left:0;top:0;width:32px;height:32px;background:#7c3aed;color:#fff;border-radius:50%;text-align:center;line-height:32px;font-weight:bold}details{background:#fff;border:1px solid #ddd6fe;border-radius:6px;margin:8px 0;padding:0}summary{padding:12px 16px;font-weight:600;color:#5b21b6;cursor:pointer}details p{padding:0 16px 12px;margin:0}.plans{display:flex;flex-direction:column;gap:12px}footer{margin-top:2rem;padding:16px;background:#e5e7eb;font-size:14px}a{color:#6d28d9}ul{padding-left:1.2rem}.tag{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-left:8px}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">使用步骤</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>Lilt 官方网站 · VPN 加速器与机场订阅</h1><section id=\"intro\"><h2>品牌简介</h2><p>Lilt 是面向中文用户的网络加速品牌，提供机场订阅与多端 VPN 客户端。我们以稳定线路、清晰套餐和官方下载入口，帮助用户完成日常跨境访问、流媒体播放与轻度游戏加速。</p><p>Lilt 坚持官方渠道分发配置与客户端，避免来路不明的安装包。服务覆盖个人基础需求与小团队协作，节点包含常规优化线路与部分 IPLC 专线，便于按场景选择。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>日常办公与资料查阅</h3><p>远程会议、文档协作与海外知识库访问时，Lilt 可提供更顺畅的链路，减少超时与反复刷新。</p><h3>流媒体与内容订阅</h3><p>旗舰版支持全节点原生流媒体解锁，适合追剧、音乐与播客的稳定播放。</p><h3>游戏与低延迟需求</h3><p>IPLC 专线游戏加速优化适合对延迟敏感的用户，团队版另提供高带宽 VIP 节点。</p><h3>多设备同时在线</h3><p>从 3 台到 20 台设备的档位，方便手机、电脑与平板同时使用同一订阅。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>所有套餐按月计费，年付更优惠。流量为每月重置的极速流量，超出后可升级或等待次月。订阅可在官方客户端或兼容 Clash 系软件中导入。</p><div class=\"plans\"><div class=\"card\"><h3>基础版 · ¥15/月</h3><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#download\">前往官方下载客户端</a></p></div><div class=\"card featured\"><h3>旗舰版 · ¥35/月 <span class=\"tag\">推荐</span></h3><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#download\">前往官方下载客户端</a></p></div><div class=\"card\"><h3>团队版 · ¥85/月</h3><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#download\">前往官方下载客户端</a></p></div></div></section><section id=\"guide\"><h2>操作说明：纵向五步上手</h2><p>按照下列步骤即可完成从了解到连接的全过程，全程使用 Lilt 官方入口。</p><div class=\"steps\"><div class=\"step\"><h3>了解需求并选择套餐</h3><p>根据设备数量、流量与是否需要 IPLC、全解锁来选择基础版、旗舰版或团队版。年付可降低月均成本。</p></div><div class=\"step\"><h3>获取机场订阅</h3><p>在 Lilt 官方渠道完成订阅后，你将获得专属订阅链接，用于各客户端一键导入节点与分流规则。</p></div><div class=\"step\"><h3>下载对应平台客户端</h3><p>前往本页客户端下载区域，选择 Windows、macOS、Android、iOS 或 Linux 版本。请仅通过官网下载，避免第三方修改包。</p></div><div class=\"step\"><h3>导入订阅并选择节点</h3><p>打开客户端，粘贴订阅地址并更新。按延迟或用途选择节点，流媒体场景优先原生解锁线路，游戏场景优先 IPLC。</p></div><div class=\"step\"><h3>连接测试与日常维护</h3><p>连接后访问常用站点确认速度。定期在客户端内更新订阅。遇到问题可通过工单（旗舰及以上优先）反馈。</p></div></div></section><section id=\"download\"><h2>客户端官方下载</h2><p>Lilt 提供多端客户端，兼容常见订阅格式。以下为官方下载入口（本页为静态说明，实际文件请通过您的订阅后台获取最新包）。</p><ul><li><a href=\"#\">Windows 客户端官方下载</a> — 适合桌面常驻与分流</li><li><a href=\"#\">macOS 客户端官方下载</a> — 支持菜单栏快捷切换</li><li><a href=\"#\">Android 客户端官方下载</a> — 省电与分应用代理</li><li><a href=\"#\">iOS 客户端说明</a> — 请使用商店内兼容应用导入订阅</li><li><a href=\"#\">Linux / 命令行</a> — 适合服务器与高级用户</li></ul><p>下载后请核对来源为 Lilt 官网。导入订阅即可使用节点池，无需额外破解或插件。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Lilt 是机场还是传统 VPN？有什么区别？</summary><p>Lilt 同时提供机场订阅（节点列表与规则）与封装好的客户端体验。机场模式灵活，可在 Clash 等软件中使用；客户端则降低上手成本。两者共享同一套线路与套餐流量。</p></details><details><summary>如何完成客户端下载并保证是官方版本？</summary><p>请只通过本站「客户端官方下载」锚点对应的说明与您账户后台提供的链接获取。不要使用网盘来路不明的安装包。安装后导入您的专属订阅即可，无需填写额外推广码。</p></details><details><summary>各套餐流量与设备数如何计算？会限速吗？</summary><p>流量按自然月重置，仅统计代理产生的数据。同时在线设备数按客户端心跳统计。正常使用不主动限速，高峰期普通线路可能拥挤，旗舰与团队的 IPLC 与 VIP 节点更稳定。</p></details><details><summary>能否解锁常见流媒体？需要哪个套餐？</summary><p>基础版提供基础解锁，部分平台可能需切换节点。旗舰版与团队版强调全节点原生流媒体解锁，更适合长期观看。实际效果随目标站点策略变化，建议收藏常用解锁节点。</p></details><details><summary>游戏加速是否必须选旗舰版？延迟大概怎样？</summary><p>对延迟敏感的游戏建议旗舰版 IPLC 或团队版 VIP。具体延迟因所在地与目标区服而异，连接后可在客户端查看实时延迟并切换。我们不承诺固定数值，以免与真实网络环境不符。</p></details><details><summary>团队版如何分配给多名成员？支持定制路由吗？</summary><p>团队版支持更多同时在线设备，可由管理员分发订阅或子链接（以后台实际功能为准）。企业定制路由需通过专属客户经理沟通目标网段与分流策略。</p></details><details><summary>忘记订阅或客户端打不开怎么办？</summary><p>先确认系统时间正确、已更新订阅。仍异常时，旗舰版享有 7x24 优先工单。基础版用户可在工作时间提交说明。请勿重复安装来源不明的修复工具。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>Lilt 官方网站 · 网络加速与机场订阅服务。本页提供品牌介绍、套餐对照、操作步骤与客户端下载指引。</p><p id=\"sitemap\"><strong>网站地图：</strong> <a href=\"#intro\">简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#plans\">套餐</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">官方下载</a> · <a href=\"#faq\">常见问题</a></p><p><strong>友情链接：</strong> <a href=\"#\">网络工具导航</a> · <a href=\"#\">流媒体兼容说明</a> · <a href=\"#\">客户端使用手册</a> · <a href=\"#\">节点状态（示例）</a></p><p><strong>合作展示：</strong> 广告与合作位置预留，欢迎通过官方渠道洽谈，不展示第三方弹窗。</p><p>© Lilt 版权所有。请通过官网获取客户端与订阅，理性使用网络加速服务。</p></div></footer>",
+          "hash": "2bc84fb36254da9523068b1e0d07209a94b1fc83d93d2258f63fdbc1304154f0",
+          "seo": {
+            "title": "Lilt官网 - 专业VPN加速器与机场订阅客户端下载",
+            "keywords": "Lilt,Lilt VPN,Lilt机场,VPN梯子,网络加速器,客户端下载,官网下载,机场订阅,流媒体解锁",
+            "description": "Lilt是面向个人与团队的网络加速服务，提供机场订阅、多平台客户端官方下载，以及稳定的VPN梯子体验，覆盖日常浏览、流媒体与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "abnio.cn",
+    "host": "p-fc40b44b1e.abnio.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "abnio.cn",
+      "url": "https://abnio.cn/",
+      "label": "穿天猴(XrayPort)",
+      "apex": "abnio.cn",
+      "kind": null,
+      "identity": "mkf8vh8/page-848d471706c579d6624a69ff"
+    },
+    {
+      "host": "91xrvo.cn",
+      "url": "https://91xrvo.cn/",
+      "label": "Lilt",
+      "apex": "91xrvo.cn",
+      "kind": null,
+      "identity": "djhagxej/page-55f33d43850573a1491bbee5"
+    },
+    {
+      "host": "aaeyi.cn",
+      "url": "https://aaeyi.cn/",
+      "label": "Lilt",
+      "apex": "aaeyi.cn",
+      "kind": null,
+      "identity": "kbxmsy/page-bc74b8e115fa9b2c40efa031"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8000ac5a27d72eb3fcd1aa9183f061d854f210f73780fa8aba59e01dca72f5bb",
+    "sitemap.xml": "901243a6b76448a6d60595f4a4c98eaef33547ba2ac07fe8b133cb18d03722ab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "77a6b0d820751853a51c21d908328c2645edbefedb72ffe58b37206de7a42ebf",
+    "robots.txt": "f5499402f39f823d62507edee6c3b01335c1f75b602e78b92aa050b4035dee3d",
+    "eeda56acc2bf10be97b4897b217a5ad2.txt": "dbe8942d4271a887c7d2e83a9510f734fc83566db55ce043c3fc7b92fdc4dd1f"
+  },
+  "revision": "78f80b567109bacf9d118f742c9b86065310900aab0a54e212e84fdc0e4a27ea"
+}
